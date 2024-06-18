@@ -85,9 +85,9 @@ def clean_code(df1):
 
     df1 = df.copy()
     
-    df1 = df1.loc[df1['Road_traffic_density'] != 'NaN', :].copy()
-    df1 = df1.loc[df1['City'] != 'NaN', :].copy()
-    df1 = df1.loc[df1['Weatherconditions'] != 'NaN', :].copy()
+    df1 = df1.loc[df1['Road_traffic_density'] != 'NaN ', :].copy()
+    df1 = df1.loc[df1['City'] != 'NaN ', :].copy()
+    df1 = df1.loc[df1['Weatherconditions'] != 'NaN ', :].copy()
     
     # Conversão de colunas
     
@@ -100,7 +100,7 @@ def clean_code(df1):
     linhas_selecionadas = (df1['Weatherconditions'] != 'conditions NaN')
     df1 = df1.loc[linhas_selecionadas, :].copy()
     
-    linhas_selecionadas = (df1['Festival'] != 'NaN')
+    linhas_selecionadas = (df1['Festival'] != 'NaN ')
     df1 = df1.loc[linhas_selecionadas, :].copy()
     
     df1 = df1.loc[df1['multiple_deliveries'] != 'NaN ', :].copy()
