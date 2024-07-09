@@ -141,10 +141,10 @@ df1 = clean_code(df)
 st.header('Marketplace - Visão Restaurantes', divider='rainbow')
 
 #image_path = r"C:\Users\User\Documents\repos\ftc_programacao_python\logo.jpg"
-image = Image.open('logo.jpg')
+image = Image.open('logo.png')
 st.sidebar.image(image, width=120)
 
-st.sidebar.markdown ('# Pluto Company')
+st.sidebar.markdown ('# Curry Company')
 st.sidebar.markdown ('## Fastest Delivery in Town')
 st.sidebar.markdown ("""---""")
 
