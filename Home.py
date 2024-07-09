@@ -9,14 +9,14 @@ st.set_page_config(
 ### Os comandos abaixo são os mesmos que constam nos arquivos de visão separadamente
 
 #image_path = r"C:\Users\User\Documents\repos\ftc_programacao_python\logo.jpg"
-image = Image.open('logo.jpg')
+image = Image.open('logo.png')
 st.sidebar.image(image, width=120)
 
-st.sidebar.markdown ('# Pluto Company')
+st.sidebar.markdown ('# Curry Company')
 st.sidebar.markdown ('## Fastest Delivery in Town')
 st.sidebar.markdown ("""---""")
 
-st.write("# Pluto Company Growth Dashboard")
+st.write("# Curry Company Growth Dashboard")
 
 st.sidebar.markdown ('### Powered by Comunidade DS')
 
