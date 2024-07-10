@@ -1,4 +1,4 @@
-### 1. Problema de Negócio
+# 1. Problema de Negócio
 
 A Curry Company é uma empresa de tecnologia que criou um aplicativo
 que conecta restaurantes, entregadores e pessoas.
@@ -58,14 +58,14 @@ tráfego.
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que
 exibam essas métricas da melhor forma possível para o CEO.
 
-### 2. Premissas assumidas para a análise
+# 2. Premissas assumidas para a análise
 
 1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
 2. Marketplace foi o modelo de negócio assumido.
 3. Os 3 principais visões do negócio foram: Visão transação de pedidos,
 visão restaurante e visão entregadores.
 
-### 3. Estratégia da solução
+# 3. Estratégia da solução
 
 O painel estratégico foi desenvolvido utilizando as métricas que refletem
 as 3 principais visões do modelo de negócio da empresa:
@@ -106,7 +106,7 @@ e. Avaliação média por condições climáticas.
 f. Tempo médido do entregador mais rápido.
 g. Tempo médio do entregador mais rápido por cidade.
 
-### 4. Estratégia da solução
+# 4. Estratégia da solução
 
 1. A sazonalidade da quantidade de pedidos é diária. Há uma variação
 de aproximadamente 10% do número de pedidos em dia sequenciais.
@@ -115,13 +115,13 @@ trânsito.
 3. As maiores variações no tempo de entrega, acontecem durante o
 clima ensoladao.
 
-### 5. O produto final do projeto
+# 5. O produto final do projeto
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. 
 
 O painel pode ser acessado através desse link: https://caiopolari-curry-company.streamlit.app/
 
-### 6. Conclusão
+# 6. Conclusão
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que
 exibam essas métricas da melhor forma possível para o CEO.
@@ -129,7 +129,7 @@ exibam essas métricas da melhor forma possível para o CEO.
 Da visão da Empresa, podemos concluir que o número de pedidos
 cresceu entre a semana 06 e a semana 13 do ano de 2022.
 
-### 7. Próximos passos
+# 7. Próximos passos
 
 1. Reduzir o número de métricas.
 2. Criar novos filtros.
