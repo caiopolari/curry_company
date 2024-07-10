@@ -1,11 +1,11 @@
 ### 1. Problema de Negócio
 
-A Cury Company é uma empresa de tecnologia que criou um aplicativo
+A Curry Company é uma empresa de tecnologia que criou um aplicativo
 que conecta restaurantes, entregadores e pessoas.
 
 Através desse aplicativo, é possível realizar o pedido de uma refeição, em
 qualquer restaurante cadastrado, e recebê-lo no conforto da sua casa por
-um entregador também cadastrado no aplicativo da Cury Company.
+um entregador também cadastrado no aplicativo da Curry Company.
 
 A empresa realiza negócios entre restaurantes, entregadores e pessoas,
 e gera muitos dados sobre entregas, tipos de pedidos, condições
@@ -19,7 +19,7 @@ empresa é ter um os principais KPIs estratégicos organizados em uma
 única ferramenta, para que o CEO possa consultar e conseguir tomar
 decisões simples, porém importantes.
 
-A Cury Company possui um modelo de negócio chamado Marketplace,
+A Curry Company possui um modelo de negócio chamado Marketplace,
 que fazer o intermédio do negócio entre três clientes principais:
 Restaurantes, entregadores e pessoas compradoras. Para acompanhar o
 crescimento desses negócios, o CEO gostaria de ver as seguintes
